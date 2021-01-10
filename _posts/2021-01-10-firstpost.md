@@ -1,14 +1,12 @@
+---
 layout: post
-
-title: "First Posting"
-
-date: 2021-01-10
-
-author: Cheonjae
-
+title:  "Dummy Post 6"
+date:   2015-04-19 08:43:59
+author: Ben Centra
 categories: Dummy
+tags: lorem ipsum
 
------------------------------------------------------------------------------
+---
 
 # This is a first post.
 
