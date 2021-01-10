@@ -56,7 +56,9 @@ jekyll-archives:
 descriptions:
   - cat: jekyll
     desc: "Posts describing Jekyll setup techniques."
-
+    
+  - cat: TIL
+    desc: "Posts describing Jekyll setup techniques."
 
 # Social icons and sharing options
 #
