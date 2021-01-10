@@ -7,7 +7,7 @@ main_nav: true
 
 ![alt text]({{ site.baseurl }}/assets/profile.PNG "Profile Picture"){:.profile}
 
-# Hi!
+# Hi! I'm Cheonjae.
 ### coutry                  | South Korea
 ### department          | Computer Science
 ### Log                       | Project, TIL, Daily
