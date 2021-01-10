@@ -5,8 +5,9 @@ permalink: /posts/
 main_nav: true
 ---
 
-{% capture site_categories %}{% for category in site.categories %}{{ category | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
-{% assign categories_list = site_categories | split:',' | sort %}
+{% for category in site.categories %}         {% capture site_categories %}{% for category in site.categories %}{{ category | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+   {% capture cat %}{{ category | first }}{% endcapture %}
+   
   <h2 id="{{cat}}">{{ cat | capitalize }}</h2>
   {% for desc in site.descriptions %}
     {% if desc.cat == cat %}
