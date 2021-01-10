@@ -5,7 +5,7 @@ permalink: /about/
 main_nav: true
 ---
 
-![alt text]({{ site.baseurl }}/assets/profile.png "Profile Picture"){:.profile}
+![alt text]({{ site.baseurl }}/assets/profile.PNG "Profile Picture"){:.profile}
 
 # Hi!
 ### coutry                  | South Korea
