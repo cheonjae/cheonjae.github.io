@@ -5,10 +5,10 @@ permalink: /about/
 main_nav: true
 ---
 
-![alt text]({{ site.baseurl }}/assets/me.jpg "Profile Picture"){:.profile}
+![alt text]({{ site.baseurl }}/assets/profile.png "Profile Picture"){:.profile}
 
 # Hi!
-## coutry | South Korea
-## department | Computer Science
-## Log | Project, TIL, Daily
+### coutry                  | South Korea
+### department          | Computer Science
+### Log                       | Project, TIL, Daily
 
