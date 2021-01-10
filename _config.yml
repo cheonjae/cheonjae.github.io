@@ -57,8 +57,6 @@ descriptions:
   - cat: jekyll
     desc: "Posts describing Jekyll setup techniques."
 
-  - cat: TIL
-
 
 # Social icons and sharing options
 #
