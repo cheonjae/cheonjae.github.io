@@ -57,9 +57,6 @@ descriptions:
   - cat: jekyll
     desc: "Posts describing Jekyll setup techniques."
 
-  - cat: git
-    desc: "Posts describing git happening"
-
   - cat: TIL
     desc: "Just some placeholder posts, lorem ipsum and the rest."
 
